@@ -1,5 +1,4 @@
-# Projects
-Home Automation Using Mqtt Server
+# Home Automation Using Mqtt Server
 Application Used: CloudMQTT
 MQTT is one of the most commonly used protocols in IoT projects. It stands for Message Queuing Telemetry Transport. 
 The Final Product
